@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=banukaiw" alt="banukaiw" /></a> </p>
 
-- 🔭 I’m currently Currently **at SLIIT**
+- 🔭 I’m currently Undergraduate **at SLIIT**
 
 - 🌱 I’m currently learning **React JS & Node JS as a Programmer and Selenium framework as a QA Automation Engineer**
 
