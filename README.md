@@ -1,15 +1,13 @@
 <div align="center"><picture ><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture></div>
-<h1 align="center">Hi 👋, I'm BanuKa Ishara</h1>
+<h1 align="center">Hi 👋, I'm Banuka Ishara</h1>
 <h3 align="center">Student | Web Developer | Software Quality Engineer (UG)</h3>
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=banukaiw&label=Profile%20views&color=0e75b6&style=flat" alt="banukaiw" /> </p>
 <hr>
-
+<picture> <img align="right" padding-top ="-30px" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = "370px"></picture>
 ##  About me
-
-<picture> <img align="right" margintop ="-30px" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = "370px"></picture>
 
 - 🔭 I’m currently Undergraduate **at SLIIT**
 
@@ -147,10 +145,11 @@
 ## <h2 align="left">GitHub Analytics:</h2>
 
 <p align="center" >
-  <img   src="https://github-readme-streak-stats.herokuapp.com/?user=banukaiw&theme=algolia" alt="banukaiw" />
-  <img   src="https://github-readme-stats.vercel.app/api?username=banukaiw&show_icons=true&theme=algolia&locale=en" alt="banukaiw" />
-  <br><br/>
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=banukaiw&show_icons=true&theme=algolia&locale=en&layout=compact" alt="banukaiw" />
+  <img height="200px"  src="https://github-readme-streak-stats.herokuapp.com/?user=banukaiw&theme=algolia" alt="banukaiw" />
+  <img height="200px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=banukaiw&show_icons=true&theme=algolia&locale=en&layout=compact" alt="banukaiw" />
+  <img  height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=banukaiw&show_icons=true&theme=algolia&locale=en" alt="banukaiw" />
+ 
+  
   
 </p>
 
