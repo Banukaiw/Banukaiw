@@ -2,15 +2,6 @@
 <h1 align="center">Hi 👋, I'm BanuKa Ishara</h1>
 <h3 align="center">Student | Web Developer | Software Quality Engineer (UG)</h3>
 
-<div align="center">
-  <a href="https://banukaiw.github.io/banukaiw/">
-  <img  src="https://github.com/banukaiw/banukaiw/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
-
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=banukaiw&label=Profile%20views&color=0e75b6&style=flat" alt="banukaiw" /> </p>
@@ -18,7 +9,7 @@
 
 ##  About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 400px></picture>
+<picture> <img align="right" margintop ="-30px" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = "370px"></picture>
 
 - 🔭 I’m currently Undergraduate **at SLIIT**
 
@@ -42,65 +33,64 @@
 ## <h2 align="left">Languages and Tools:</h2>
 
 
-## Tech Stack
-
-
-<p style="display: inline-block;" align="center">
+<p style="display: inline-block;" align="center", justify-content="space-between">
   <kbd>
     <kbd>Programming Languages</kbd>
     <br>
     <br>
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> 
-    <img width="40" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" /> 
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /> 
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> 
+    <img width="50" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" /> 
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /> 
   </kbd>
-  <kbd>
+
+ 
+  <kbd margin="100px 10px 100px 10px">
     <kbd>Back-end</kbd>
     <br>
     <br>
-    <img width="40" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js"  />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-    <img width="40" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" />
-    <img width="40" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" />
+    <img width="50" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js"  />
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+    <img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPwlGiXsLjsbNDEBQ_fzEwxqLV3VNJIHL8z9SYZ1kb0PQbNXmqCYmm1DTdLwfCF1LDo-I&usqp=CAU" alt="Express.js" />
+    <img width="50" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" />
     
   </kbd>
+
+   
    <kbd>
     <kbd>Mobile</kbd>
     <br>
     <br>
-      <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" />
-       <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
+      <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" />
+       <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
   
   </kbd>
   <kbd>
     <kbd>Front-end</kbd>
     <br>
     <br>
-    <img width="40" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-    <img width="40" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" /> 
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" />
-    
+    <img width="50" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" />
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+    <img width="50" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" /> 
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img width="50" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" />
   </kbd>
-  <kbd>
-    <kbd>Database</kbd>
+  <kbd margin-top="30">
+    <kbd margin-top="10px">Database</kbd>
     <br>
     <br>
-    <img width="40" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" />
-    <img width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" />
-    <img width="40" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" />
+    <img width="50" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" />
+    <img width="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" />
+    <img width="50" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" />
   </kbd>
-  <br>
-  <br>
+
   <kbd>
     <kbd>Testing</kbd>
     <br>
     <br>
-    <img width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" />
-    <img width="40" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" />
+    <img width="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" />
+    <img width="50" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" />
     
   </kbd>
  
@@ -108,19 +98,13 @@
     <kbd>System, Networking & Deployment</kbd>
     <br>
     <br>
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" />
-    <img width="40" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-    <img width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" />
+    <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" />
+    <img width="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" />
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+    <img width="50" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"  />
+    
   </kbd>
-  <kbd>
-    <kbd>Terminal Scripts</kbd>
-    <br>
-    <br>
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-  </kbd>
+  
   <kbd>
     <kbd>Tools</kbd>
     <br>
@@ -130,11 +114,20 @@
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   </kbd>
+  <kbd>
+    <kbd>Documentation</kbd>
+    <br>
+    <br>
+    <img width="50" src="https://img.icons8.com/?size=100&id=13674&format=png&color=000000"  />
+    <img width="50" src="https://img.icons8.com/?size=100&id=117557&format=png&color=000000" />
+  </kbd>
+  
    <kbd>
-    <kbd>Game Development</kbd>
+    <kbd>Editing</kbd>
     <br>
     <br>
-    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+    <img width="50" src="https://img.icons8.com/?size=100&id=13677&format=png&color=000000" />
+   <img width="50" src="https://img.icons8.com/?size=100&id=baWsXpPZGhGu&format=png&color=000000" />
   </kbd>
 </p>
 
@@ -149,11 +142,11 @@
 
 
 ## <h2 align="left">GitHub Analytics:</h2>
-gg
+
 <p align="center" >
   <img   src="https://github-readme-streak-stats.herokuapp.com/?user=banukaiw&theme=algolia" alt="banukaiw" />
   <img   src="https://github-readme-stats.vercel.app/api?username=banukaiw&show_icons=true&theme=algolia&locale=en" alt="banukaiw" />
-  <br><br/>
+
   <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=banukaiw&show_icons=true&theme=algolia&locale=en&layout=compact" alt="banukaiw" />
   
 </p>
