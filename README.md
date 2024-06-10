@@ -76,11 +76,11 @@
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img width="50" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" />
   </kbd>
-  <kbd margin-top="30">
-    <kbd margin-top="10px">Database</kbd>
+  <kbd padding-top="30px">
+    <kbd padding-top="30px">Database</kbd>
     <br>
     <br>
-    <img width="50" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" />
+    <img  width="50" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" />
     <img width="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" />
     <img width="50" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" />
   </kbd>
@@ -146,7 +146,7 @@
 <p align="center" >
   <img   src="https://github-readme-streak-stats.herokuapp.com/?user=banukaiw&theme=algolia" alt="banukaiw" />
   <img   src="https://github-readme-stats.vercel.app/api?username=banukaiw&show_icons=true&theme=algolia&locale=en" alt="banukaiw" />
-
+<br>
   <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=banukaiw&show_icons=true&theme=algolia&locale=en&layout=compact" alt="banukaiw" />
   
 </p>
