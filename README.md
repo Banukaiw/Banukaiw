@@ -65,6 +65,8 @@
        <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
   
   </kbd>
+  <br>
+  <br/>
   <kbd>
     <kbd>Front-end</kbd>
     <br>
@@ -93,7 +95,8 @@
     <img width="50" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" />
     
   </kbd>
- 
+ <br>
+ <br/>
   <kbd>
     <kbd>System, Networking & Deployment</kbd>
     <br>
@@ -146,7 +149,7 @@
 <p align="center" >
   <img   src="https://github-readme-streak-stats.herokuapp.com/?user=banukaiw&theme=algolia" alt="banukaiw" />
   <img   src="https://github-readme-stats.vercel.app/api?username=banukaiw&show_icons=true&theme=algolia&locale=en" alt="banukaiw" />
-<br>
+  <br><br/>
   <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=banukaiw&show_icons=true&theme=algolia&locale=en&layout=compact" alt="banukaiw" />
   
 </p>
