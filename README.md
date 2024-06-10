@@ -146,8 +146,8 @@
 
 <p align="center" >
   
-  <img height="200px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=banukaiw&show_icons=true&theme=algolia&locale=en&layout=compact" alt="banukaiw" />
-  <img  height="200px"  src="https://github-readme-stats.vercel.app/api?username=banukaiw&show_icons=true&theme=algolia&locale=en" alt="banukaiw" />
+  <img height="190px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=banukaiw&show_icons=true&theme=algolia&locale=en&layout=compact" alt="banukaiw" />
+  <img  height="190px"  src="https://github-readme-stats.vercel.app/api?username=banukaiw&show_icons=true&theme=algolia&locale=en" alt="banukaiw" />
   <img height="180px"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=banukaiw&theme=algolia" alt="banukaiw" />
  
   
