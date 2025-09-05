@@ -1,6 +1,6 @@
 <div align="center"><picture ><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture></div>
 <h1 align="center">Hi 👋, I'm Banuka Ishara</h1>
-<h3 align="center">Student | Web Developer | Software Quality Engineer (UG)</h3>
+<h3 align="center"> Software Developer | Software Quality Engineer</h3>
 
 
 
@@ -9,7 +9,7 @@
 <picture> <img align="right" padding-top ="-30px" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = "370px"></picture>
 ##  About me
 
-- 🔭 I’m currently Undergraduate **at SLIIT**
+- 🔭 I’m currently Graduate **at SLIIT**
 
 - 🌱 I’m currently learning **React JS & Selenium**
 
